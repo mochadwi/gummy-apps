@@ -2,29 +2,12 @@
   "build": {
     "preview": {
       "android": {
-        "buildType": "apk",
-        "gradleCommand": ":app:assembleRelease"
-      }
-    },
-    "preview2": {
-      "android": {
         "buildType": "apk"
       }
     },
-    "preview3": {
-      "developmentClient": true
-    },
     "production": {
       "android": {
-        "buildType": "aab"
-      }
-    }
-  },
-  "submit": {
-    "production": {
-      "android": {
-        "serviceAccount": "~/flovey-firebase-key.json",
-        "track": "production"
+        "buildType": "app-bundle"
       }
     }
   }

@@ -19,6 +19,12 @@
     },
     "plugins": [
       "expo-secure-store"
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "1b35c7e7-0e38-4ae0-8ffd-21a7c4824471"
+      }
+    },
+    "owner": "rumayshoacademy"
   }
 }

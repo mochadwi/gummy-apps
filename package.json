@@ -2,9 +2,9 @@
   "name": "flovey",
   "version": "0.1.0",
   "description": "Parent-child financial education mobile app",
-  "main": "expo-router/build/index.js",
-  "type": "module",
+  "main": "index.js",
   "scripts": {
+    "expo": "expo",
     "start": "expo start",
     "ios": "expo run:ios",
     "android": "expo run:android",

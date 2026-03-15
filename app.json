@@ -3,7 +3,7 @@
     "name": "Flovey",
     "slug": "flovey",
     "version": "0.1.0",
-    "sdkVersion": "51.0.0",
+    "sdkVersion": "52.0.0",
     "scheme": "flovey",
     "assetBundlePatterns": [
       "**/*"
@@ -20,3 +20,4 @@
     }
   }
 }
+
